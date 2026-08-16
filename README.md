@@ -61,4 +61,8 @@ var TARGET_TRACK_NUMBER = 1;
 &nbsp;&nbsp;&nbsp;&nbsp;아래는 기본 단축키와 스크립트를 사용한 작동영상입니다.
 <br>
 <br>
-<img width="1920" height="1080" alt="2026-08-16 23-18-36" src="https://github.com/user-attachments/assets/e1c164fa-0773-4bea-a307-775ae8021539" />
+
+
+https://github.com/user-attachments/assets/8938e291-ba78-44de-98fd-5208b92050cd
+
+
